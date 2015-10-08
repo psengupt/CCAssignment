@@ -1,0 +1,1 @@
+(n&(n-1)): sets the first set bit from right to zero
